@@ -16,4 +16,7 @@ These exercises were performed weekly during the semester at Brigham Young Unive
 <img align="center" alt="CSS" src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white>
 </div>
 
+## Descrição / Description
+Week 01 - HTML index page  + linking a profile image
+
 
